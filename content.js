@@ -55,7 +55,7 @@
             img[src*="ytimg.com"],
             img[src*="youtube.com/vi/"],
             img[src*="youtu.be"] {
-                filter: blur(150px) !important;
+                filter: blur(25px) !important;
                 transition: filter 0.3s ease !important;
             }
             
@@ -142,7 +142,7 @@
             const images = document.querySelectorAll(selector);
             images.forEach(img => {
                 if (!img.classList.contains('blur-applied')) {
-                    img.style.filter = 'blur(150px)';
+                    img.style.filter = 'blur(25px)';
                     img.style.transition = 'filter 0.3s ease';
                     img.classList.add('blur-applied');
                 }

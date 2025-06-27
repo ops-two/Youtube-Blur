@@ -4,7 +4,7 @@ Clean up your YouTube feed. Instantly blur video thumbnails and completely block
 
 ## Features
 
-- **Thumbnail Blurring**: Applies 150px blur to all YouTube thumbnails across the platform
+- **Thumbnail Blurring**: Applies a 25px blur to all YouTube thumbnails across the platform
 - **YouTube Shorts Blocking**: 
   - Automatically redirects Shorts URLs to normal video player
   - Removes Shorts from feeds and recommendations
