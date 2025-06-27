@@ -1,6 +1,7 @@
 # YouTube Thumbnail Blur & Shorts Block
 
 Clean up your YouTube feed. Instantly blur video thumbnails and completely block YouTube Shorts for better focus.
+Download here: [Chrome Extension](https://chromewebstore.google.com/detail/llofhcbpmlmelopbbgpoeljbbnoadkmp)
 
 ## Features
 
